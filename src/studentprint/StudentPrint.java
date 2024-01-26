@@ -7,7 +7,7 @@ package studentprint;
 
 /**
  *
- * @author Sivagama
+ * @author Sivagama srinivasan
  */
 public class StudentPrint {
 
