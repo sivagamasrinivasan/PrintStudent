@@ -41,5 +41,19 @@ public class Student
     public void setAge(int age) {
         this.age = age;
     }
+
+    /**
+     * @return the semno
+     */
+    public int getSemno() {
+        return semno;
+    }
+
+    /**
+     * @param semno the semno to set
+     */
+    public void setSemno(int semno) {
+        this.semno = semno;
+    }
    
 }
